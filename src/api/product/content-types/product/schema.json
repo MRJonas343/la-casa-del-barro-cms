@@ -47,6 +47,10 @@
     "description": {
       "type": "blocks",
       "required": true
+    },
+    "Display_In_Gallery": {
+      "type": "boolean",
+      "default": false
     }
   }
 }
