@@ -38,6 +38,12 @@
     },
     "contactEmail": {
       "type": "string"
+    },
+    "facebookLink": {
+      "type": "string"
+    },
+    "instagramLink": {
+      "type": "string"
     }
   }
 }
